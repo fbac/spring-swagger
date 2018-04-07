@@ -1,4 +1,4 @@
-package com.javainuse.swaggertest;
+package com.hello.swaggertest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
